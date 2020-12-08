@@ -4,7 +4,7 @@ undirect link and thin connector represent direct connector.
 
 Example which used here: 
 
-black likes red
+black likes red <br>
 red likes black
 black likes gray
 orange likes gold
