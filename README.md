@@ -4,16 +4,16 @@ undirect link and thin connector represent direct connector.
 <br>
 Example which used here: 
 
-black likes red <br>
-red likes black <br>
-black likes gray <br>
-orange likes gold <br>
-orange likes green <br>
-burntOran likes brown <br>
-brown likes burntOran <br>
-burntOran likes blue <br>
-brown likes yellow <br>
-yellow likes brown <br>
+black similar to red <br>
+red similar to black<br>
+black votes to gray<br>
+orange votes to gold<br>
+orange votes to green<br>
+burntOran similar to brown<br>
+brown similar to burntOran<br>
+burntOran votes to blue<br>
+brown similar to yellow<br>
+yellow similar to brown<br>
 
 Refrence of this project : <br>
 TradeArc NHL trades 
